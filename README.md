@@ -18,7 +18,7 @@ We later moved the more general tests to run on ST development boards with the s
 So, we have these sections:
 
 - folder `docs` contains the [results](./docs/performances.md) we have measured on the two boards;
-- folder code contains [instructions](./code/performances.md) about how to add our code inside official ST code available on Github for those MPUs. 
+- folder code contains [instructions](./code/how-to-run-tests.md) about how to add our code inside official ST code available on Github for those MPUs. 
 
 
 
