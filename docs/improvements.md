@@ -5,7 +5,9 @@ So far, the suggestion from by [STOne-32](https://community.st.com/t5/user/viewp
 
 
 
+## How to run the test
 
+Using the project `h7-test-ram.improv1-sram1-sram2.uvprojx` after it is copied inside the STM32CubeH7 repository.
 
 
 
